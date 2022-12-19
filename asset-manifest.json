@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.024204bd.css",
+    "main.js": "/static/js/main.cf364191.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Ankesh.png": "/static/media/Ankesh.6c4152e0a9eae96d89a7.png",
+    "index.html": "/index.html",
+    "main.024204bd.css.map": "/static/css/main.024204bd.css.map",
+    "main.cf364191.js.map": "/static/js/main.cf364191.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024204bd.css",
+    "static/js/main.cf364191.js"
+  ]
+}
